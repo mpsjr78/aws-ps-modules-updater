@@ -38,12 +38,12 @@ This script solves that by acting as a centralized updater. It smartly checks fo
 
 ## 🚀 Usage
 
-1. Clone this repository or download the `Update-AWSModules.ps1` script.
+1. Clone this repository or download the `AWS-PSModules-Updater.ps1` script.
 2. Open your terminal.
 3. Execute the script:
 
 ```powershell
-.\Update-AWSModules.ps1
+.\AWS-PSModules-Updater.ps1
 ```
 Note: If you are not running as an Administrator, a UAC prompt will appear to elevate the session.
 
